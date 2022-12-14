@@ -1,4 +1,7 @@
 .form-field{
-  margin: 10px 20px;
+  margin: 10px 0;
   display: block;
+}
+fieldset{
+  margin: 20px 0;
 }
